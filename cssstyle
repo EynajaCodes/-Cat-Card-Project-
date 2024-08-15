@@ -1,0 +1,23 @@
+
+
+
+span.list{ font-weight: bold;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+
+.body{border: 2px solid pink;
+height: 500px;
+width: 350px;}
+
+.list{border: 1px solid pink
+    margin:.5em;
+    padding: 0.5em;
+height: fit-content;
+width: fit-content;
+list-style-type: none; }
+
+.pic{border: 1px solid white;
+height:50%;
+width:50%;
+}

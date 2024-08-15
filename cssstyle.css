@@ -1,0 +1,55 @@
+
+
+
+span.list{ font-weight: bold;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+
+.cat-info{height: 650px;
+    width: 300px;
+    border: 2px solid rgb(199, 191, 191);
+    margin: none;
+    padding: none;
+    
+    
+}
+
+.list ul{
+    height: 85%;
+    width: 85%;
+    padding:none;
+    margin:.1em;
+background-size:fit-content;
+list-style-image:url("ezgif.com-resize.gif")
+}
+
+
+
+
+
+.picture img {border: 1px solid grey;
+height:300px;
+width:300px;
+
+
+
+
+
+
+
+
+}
+
+.picture-description{ border: 1px solid rgb(92, 89, 89);
+    font-style:italic;
+ }
+
+ .end-portion{ 
+    height:96%;
+    width:96%;
+    margin:.3em;
+    padding:.5em;
+}
+
+.body>.picture img{ content-fit:contain; }
